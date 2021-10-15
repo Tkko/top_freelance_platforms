@@ -1,6 +1,8 @@
 
 <div>
   <h1 align="center" style="font-size: 70px;">Top Freelance Platforms And Referrals</h1>
+  <h3 align="center" >Referral bonus will be devided 50/50</h3>
+  
 </div>
 
 
@@ -34,4 +36,33 @@
 - BairesDev [Url](https://www.bairesdev.com/)
 - Pilot [Url](https://pilot.co/)
 - Number8 [Url](https://number8.com/)
-- Crewnew [Url](https://number8.com/)
+- Crewnew [Url](https://crewnew.com/)
+- Flexjobs [Url](https://www.flexjobs.com/)
+- Guru [Url](https://www.guru.com/)
+- Behance [Url](https://www.behance.net/)
+- 99designs [Url](https://99designs.com/)
+- Dribble [Url](https://dribbble.com/jobs)
+- Freeup [Url](https://freeup.net/)
+- DesignCrowd [Url](https://www.designcrowd.com/)
+- Working-Nomad [Url](https://working-nomads.com/)
+- SolidGigs [Url](https://solidgigs.com)
+- Angel List [Url](https://angel.co/)
+- Kolabtree [Url](https://www.kolabtree.com)
+- SimplyHired [Url](https://www.simplyhired.com/)
+- Indeed [Url](https://www.indeed.com/)
+- LinkedIn [Url](https://www.linkedin.com/)
+- Glassdoor [Url](https://www.glassdoor.com/Job)
+- Remoteok [Url](https://remoteok.io)
+- Remotive [Url](https://remotive.io)
+- ZipRecruiter [Url](https://www.ziprecruiter.com)
+- StackOverflow [Url](https://stackoverflow.com/jobs)
+- Remote [Url](https://remote.co)
+- NoDesk [Url](https://nodesk.co/)
+- Dice [Url](https://www.dice.com/jobs)
+- Jooble [Url](https://jooble.org/)
+- Remote [Url](https://www.remote.me/)
+- Smoothremote [Url](https://smoothremote.com/)
+- Remoters [Url](https://remoters.net/)
+- Nixa [Url](https://www.nixa.io/developer)
+- CyberCoders [Url](https://www.cybercoders.com/)
+- Remote [Url](https://www.remote.io/)
