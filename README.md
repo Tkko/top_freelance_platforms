@@ -66,3 +66,5 @@
 - Nixa [Url](https://www.nixa.io/developer)
 - CyberCoders [Url](https://www.cybercoders.com/)
 - Remote [Url](https://www.remote.io/)
+- 4dayweek [Url](https://4dayweek.io/)
+- BlockchainDevs [Url](https://www.blockchaindevs.net/)
