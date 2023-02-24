@@ -3,63 +3,102 @@
 
 <head>
   <title>Top Freelance Platforms and Job Boards | Hand-picked Jobs</title>
-  <meta name="description" content="Find the best freelance platforms and job boards. Open Jobs features hand-picked open job listings to help you start your freelance career.">
+  <meta name="description"
+    content="Find the best freelance platforms and job boards. Open Jobs features hand-picked open job listings to help you start your freelance career.">
   <meta name="keywords" content="freelance platforms, job boards, open jobs, freelancing, remote jobs, nomad jobs">
   <meta name="author" content="JobDistricts">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta property="og:title" content="Top Freelance Platforms and Job Boards | Hand-picked Jobs">
-  <meta property="og:description" content="Find the best freelance platforms and job boards. Open Jobs features hand-picked open job listings to help you start your freelance career.">
+  <meta property="og:description"
+    content="Find the best freelance platforms and job boards. Open Jobs features hand-picked open job listings to help you start your freelance career.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://freelance-platforms.vercel.app">
-  <meta property="og:image" content="https://user-images.githubusercontent.com/26390946/220891242-9798b6de-8f1b-459c-a79e-627ffed64ac7.png">
+  <meta property="og:image"
+    content="https://user-images.githubusercontent.com/26390946/220891242-9798b6de-8f1b-459c-a79e-627ffed64ac7.png">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Top Freelance Platforms and Job Boards | Hand-picked Jobs">
-  <meta name="twitter:description" content="Find the best freelance platforms and job boards. Open Jobs features hand-picked open job listings to help you start your freelance career.">
-  <meta name="twitter:image" content="https://user-images.githubusercontent.com/26390946/220891242-9798b6de-8f1b-459c-a79e-627ffed64ac7.png">
+  <meta name="twitter:description"
+    content="Find the best freelance platforms and job boards. Open Jobs features hand-picked open job listings to help you start your freelance career.">
+  <meta name="twitter:image"
+    content="https://user-images.githubusercontent.com/26390946/220891242-9798b6de-8f1b-459c-a79e-627ffed64ac7.png">
+
   <style>
-    html,
-    body {
-      height: 100%;
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+      }
+
+      to {
+        opacity: 1;
+      }
     }
 
     body {
+      background-color: #222;
+      color: #fff;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 16px;
+      line-height: 1.6;
+      text-align: center;
+    }
+
+    .container {
       display: flex;
-      justify-content: center;
-      align-items: middle;
-      vertical-align: middle;
-      font-family: Avenir, sans-serif;
-      color: #ddd0d0;
-      background-color: #111;
-    }
-
-    a {
-      text-decoration: none;
-      color: inherit;
-    }
-
-    .cta {
-      justify-items: center;
+      flex-direction: column;
       align-items: center;
-      height: 100%;
+      justify-content: center;
+      height: 100vh;
+      padding: 0 20px;
+      max-width: 800px;
+      margin: 0 auto;
+      animation: fadeIn 1s ease-in-out;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      margin-bottom: 30px;
+      animation: fadeIn 1s ease-in-out;
+    }
+
+    h1 {
+      font-size: 48px;
+      margin-bottom: 20px;
+      animation: fadeIn 1s ease-in-out;
+    }
+
+    p {
+      font-size: 24px;
+      margin-bottom: 40px;
+      animation: fadeIn 1s ease-in-out;
+    }
+
+    .btn {
+      background-color: #6c63ff;
+      border: none;
+      border-radius: 4px;
+      color: #fff;
+      cursor: pointer;
+      font-size: 24px;
+      padding: 16px 32px;
+      transition: all 0.3s ease-in-out;
+      animation: fadeIn 1s ease-in-out;
+    }
+
+    .btn:hover {
+      background-color: #554ed9;
+      transform: translateY(-3px);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
     }
   </style>
 </head>
 
-<script>
-  window.location.replace("https://freelance-platforms.vercel.app");
-</script>
-
 <body>
-
-  <span class="cta">
-    <h1>This site has been moved to</h1>
-    <a href="https://freelance-platforms.vercel.app">
-      <h1>Jobdistricts.com</h1>
-    </a>
-  </span>
-
-
-
+  <div class="container">
+    <h1>We've Moved!</h1>
+    <p>Our website has moved to a new domain. click below to proceed</p>
+    <button class="btn" onclick="window.location.href='https://freelance-platforms.vercel.app'">Let's go</button>
+  </div>
 </body>
 
 </html>
