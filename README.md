@@ -4,9 +4,9 @@
 
 #### You can view the content in three different layouts
 
-| **[Simple view](https://freelance-platforms.vercel.app/hiring-websites-for-anyone/list)<br />Look through only the platform names** | **[Grid view](https://freelance-platforms.vercel.app)<br />Platform names and images** |
+| **[Simple view](https://jobdistricts.com/hiring-websites-for-anyone/list)<br />Look through only the platform names** | **[Grid view](https://jobdistricts.com)<br />Platform names and images** |
 |---|---|
-| <a href="https://freelance-platforms.vercel.app/hiring-websites-for-anyone/list"><img width="300" src="https://user-images.githubusercontent.com/26390946/218300485-27285ee1-5c0e-403b-9ea6-b92e1f7c1299.png"/></a> | <a href="https://freelance-platforms.vercel.app"><img width="300" src="https://user-images.githubusercontent.com/26390946/218300416-ffb14d1c-3f97-4644-8710-e73547ceff62.png"/></a> |
+| <a href="https://jobdistricts.com/hiring-websites-for-anyone/list"><img width="300" src="https://user-images.githubusercontent.com/26390946/218300485-27285ee1-5c0e-403b-9ea6-b92e1f7c1299.png"/></a> | <a href="https://jobdistricts.com"><img width="300" src="https://user-images.githubusercontent.com/26390946/218300416-ffb14d1c-3f97-4644-8710-e73547ceff62.png"/></a> |
 
 
 ## Adding new platforms
