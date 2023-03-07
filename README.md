@@ -1,4 +1,4 @@
-<a href="https://tornike.dev"><img width="100%" alt="Top freelance platforms for developers" src="https://user-images.githubusercontent.com/26390946/218305238-66ecc2cc-f304-4157-971d-98251336e278.png"/></a>
+<a href="https://www.jobdistricts.com/"><img width="100%" alt="Top freelance platforms for developers" src="https://user-images.githubusercontent.com/26390946/218305238-66ecc2cc-f304-4157-971d-98251336e278.png"/></a>
 
 ##### Alphabetically sorted list of the 70 best freelance platforms for digital professionals (Designers, Engineers, etc...)
 
